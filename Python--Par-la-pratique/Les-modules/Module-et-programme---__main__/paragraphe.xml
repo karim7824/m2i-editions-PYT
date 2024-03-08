@@ -1,0 +1,58 @@
+<paragraphe titre="Module et programme   __main__">
+	<sparagraphes>
+		<sparagraphe order='1' titre="STITRE">
+			<illustration>
+				<!--image reference dans le repertoire local-->
+			</illustration>
+			<contenu>
+				<!--
+					text=explication du paragraphe
+					exemple = text=explication + exemple (description
+				-->
+				<texte>
+				</texte>
+				<exemple>
+					<description>
+					</description>
+					<contenu>
+					</contenu>
+				</code>			
+			</contenu>
+		</sparagraphe>
+		<exercices>
+			<!--
+				relatifs au paragraphe 
+				enoncé, portion de code si ce n'est pas trop gros
+				download = lien ou tout le projet
+			-->
+			<exercice>
+				<enonce></enonce>
+				<corrige></corrige>
+				<download></download>
+			</exercice>
+		</exercices>
+		<sites>
+			<!--
+			les url de reférences qui traite du sujet
+			-->
+			<site></site>
+			<site></site>
+		</sites>
+	</sparagraphes>
+	<ia>
+		<!--
+			theme=de quoi parle ton (Angular, Python, securité,...) = titre du livre
+			sujet=du paragraphe en court = titre du paragraphe = Module et programme   __main__
+			Questions = personnalisée et a completer et a poser à IA (eventullement à adapter)
+		-->
+		<theme>
+		THEME
+		</theme>
+		<questions>
+			En francais Conceptes : THEME, Python -
+			En francais Explication : THEME, Python -
+			En francais Syntaxe : THEME, Python
+			En francais Exemple simple : THEME, Python -
+		</questions>
+	</ia>
+</paragraphe>
